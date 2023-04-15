@@ -11,7 +11,7 @@ I am happy to learn new tools for myself that will improve the product and simpl
 I am able to independently search and find solutions for non-standard tasks.
 I strive to write code that is easy to read, maintain and develop. I can read other people's code. I quickly get involved in work, easily find a common language with colleagues. I respond well to criticism. I want to join the project team that helps improve people's lives.
 
-## My App in the AppStore
+#### My App in the AppStore
 https://apps.apple.com/us/app/iwallet-расходы-и-доходы/id6447585809
 
 <!--
