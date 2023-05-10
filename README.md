@@ -2,11 +2,9 @@
 
 ### ✨My name is Vladislav✨
 
-I Vladislav, an aspiring iOS developer with experience in management and design. I specialize in SwiftUI and create high-quality UI/UX. Developed the iWallet app for expense and income tracking with over 150 downloads.
+An aspiring iOS developer with experience in management and design. I specialize in SwiftUI and create high-quality UI/UX. Developed the iWallet app for expense and income tracking with over 150 downloads.
 
 Mastered style: Swift, SwiftUI, Realm, Xcode, GitHub, Apple Connect.
-
-Successfully applied Trello and Kanban methodology to manage teams and projects in construction and design. Decisive, responsible for conflicts, presenting himself for change and preparing for election.
 
 Inspired by iOS development and Apple philosophy.
 
