@@ -4,9 +4,9 @@
 
 An aspiring iOS developer with experience in management and design. I specialize in SwiftUI and create high-quality UI/UX. Developed the iWallet app for expense and income tracking with over 150 downloads.
 
-Mastered style: Swift, SwiftUI, Realm, Xcode, GitHub, Apple Connect.
+Skils: Swift, SwiftUI, Realm, Xcode, GitHub, Apple Connect.
 
-Inspired by iOS development and Apple philosophy.
+Inspired by development and Apple philosophy.
 
 
 
