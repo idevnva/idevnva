@@ -9,14 +9,31 @@ An aspiring iOS developer with experience in management and design. I specialize
 Inspired by development and Apple philosophy.
 
 * 🌍  I'm based in Moscow
-* 🖥️  See my portfolio at [Personal site](http://idevnva.com)
-* ✉️  You can contact me at [idevnva@gmail.com](mailto:idevnva@gmail.com)
-* 🚀  I'm currently working on [MyApp](http://apps.apple.com/us/app/iwallet-expenses-and-income/id6447585809)
+* 🖥️  My personal [site](http://idevnva.com)
+* ✉️  You can contact me at [email: idevnva@gmail.com](mailto:idevnva@gmail.com)
+* ✈️  You can contact me at [Telegram: @idevnva](t.me/idevnva)
+* 🚀  I'm currently working on [MyApp: iWallet](http://apps.apple.com/us/app/iwallet-expenses-and-income/id6447585809)
 * 🧠  I'm learning Combine
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I love hot coffee in the morning.
+* ☕️  I love hot coffee in the morning.
 
 ### Skills
+<img src="https://img.shields.io/badge/SWIFT-5.8-F6522E?style=flat&logo=appveyor&logo=swift&logoColor=F6522E"/> <img src="https://img.shields.io/badge/SwiftUI-4.0-0260E8?style=flat&logo=appveyor&logo=swift&logoColor=0260E8"/>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/idevnva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/idevnva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/idevnva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/idevnva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+
+## Github Stats  
+<table><tr><td valign="top" width="100%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=idevnva&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+
+
+<!--
 
 
 <p align="left">
@@ -29,21 +46,6 @@ Inspired by development and Apple philosophy.
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/idevnva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/idevnva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/idevnva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/idevnva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=idevnva&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-</td><td valign="top" width="50%">
-
-
-<!--
 
 # 👋 Hello, World!
 
