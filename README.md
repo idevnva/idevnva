@@ -1,3 +1,42 @@
+Hi 👋 My name is Vladislav Novoshinskiy
+=======================================
+
+iOS Developer
+-------------
+
+An aspiring iOS developer with experience in management and design. I specialize in SwiftUI and create high-quality UI/UX. Developed the iWallet app for expense and income tracking with over 150 downloads.
+
+Inspired by development and Apple philosophy.
+
+* 🌍  I'm based in Moscow
+* 🖥️  See my portfolio at [Personal site](http://idevnva.com)
+* ✉️  You can contact me at [idevnva@gmail.com](mailto:idevnva@gmail.com)
+* 🚀  I'm currently working on [MyApp](http://apps.apple.com/us/app/iwallet-expenses-and-income/id6447585809)
+* 🧠  I'm learning Combine
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  I love hot coffee in the morning.
+
+### Skills
+
+
+<p align="left">
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/idevnva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/idevnva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/idevnva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/idevnva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+
+<!--
+
 # 👋 Hello, World!
 
 ### ✨My name is Vladislav✨
@@ -9,9 +48,6 @@ Skils: Swift, SwiftUI, Realm, Xcode, GitHub, Apple Connect.
 Inspired by development and Apple philosophy.
 
 
-
-
-<!--
 **idevnva/idevnva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
