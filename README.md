@@ -41,7 +41,7 @@ Inspired by development and Apple philosophy.
   <img src="https://img.shields.io/badge/Google Chrome-4285F4?style=flat&logo=googlechrome&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Stack Overflow-F58025?style=flat&logo=stackoverflow&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/zoom-2D8CFF?style=flat"/>
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/iCloud-3693F3?style=flat&logo=icloud&logoColor=ffffff"/>
@@ -51,11 +51,13 @@ Inspired by development and Apple philosophy.
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Apple Arcade-000000?style=flat&logo=applearcade&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/App Store-0D96F6?style=flat&logo=appstore&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/MacOS-000000?style=flat"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=flat&logo=anydesk&logoColor=ffffff"/>
 </p>
 
 ## Github Stats  
