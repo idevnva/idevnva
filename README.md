@@ -17,6 +17,15 @@ Inspired by development and Apple philosophy.
 * 🤝  I'm open to [collaborating](https://en.wikipedia.org/wiki/Collaboration) on interesting projects
 * ☕️  I love hot [coffee](https://www.youtube.com/shorts/YRmJzKsKnp0) in the morning.
 
+### Courses
+| Year | Author | Name |
+|-----:|-------------------------------|-----------------------|
+| 2022 | Alex Skutarenko, iOS Developer| Swift                 |
+| 2023 | Hacking with Swift            | 100 Days of SwiftUI   |
+| 2023 | Apple                         | Introducing SwiftUI   |
+| 2023 | Apple                         | Develop apps for iOS  |
+| 2023 | Error Nil                     | Swift, UIKit, SwiftUI |
+
 ### Skills
 <p align="left">
   <img src="https://img.shields.io/badge/SWIFT-F05138?style=flat&logo=swift&logoColor=ffffff"/>
@@ -66,5 +75,4 @@ Inspired by development and Apple philosophy.
 
 ## Github Stats  
 <table><tr><td valign="top" width="100%">
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=idevnva&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
