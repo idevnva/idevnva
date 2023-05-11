@@ -5,7 +5,7 @@ An aspiring iOS developer with experience in management and design. I specialize
 
 Inspired by development and Apple philosophy.
 
-* 🌍  I'm based in Moscow
+* 🌍  I'm based in [Moscow](https://www.google.com/maps/place/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0/@55.5802571,36.7262101,9z/data=!3m1!4b1!4m6!3m5!1s0x46b54afc73d4b0c9:0x3d44d6cc5757cf4c!8m2!3d55.755826!4d37.6172999!16zL20vMDRzd2Q?authuser=0)
 * 🖥️  My personal [Site](http://idevnva.com)
 * 📜  My personal [Resume](https://drive.google.com/file/d/1RjRV2BD6iqxAZx2SYFlflWJyukl0AIgV/view)
 * ✉️  You can contact me at email: [idevnva@gmail.com](mailto:idevnva@gmail.com)
