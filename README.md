@@ -16,7 +16,47 @@ Inspired by development and Apple philosophy.
 * ☕️  I love hot [coffee](https://www.youtube.com/shorts/YRmJzKsKnp0) in the morning.
 
 ### Skills
-<p align="left"><img src="https://img.shields.io/badge/SWIFT-F05138?style=flat&logo=swift&logoColor=ffffff"/> <img src="https://img.shields.io/badge/SwiftUI-0260E8?style=flat&logo=swift&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=ffffff"/> <img src="https://img.shields.io/badge/MVVM-53AC56?style=flat"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=ffffff"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=ffffff"/></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/SWIFT-F05138?style=flat&logo=swift&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0260E8?style=flat&logo=swift&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/MVVM-53AC56?style=flat"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=ffffff"/></p>
+
+### Other skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=adobexd&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/1password-0094F5?style=flat&logo=1password&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Bitwarden-175DDC?style=flat&logo=bitwarden&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat&logo=googlemeet&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Google Chrome-4285F4?style=flat&logo=googlechrome&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Stack Overflow-F58025?style=flat&logo=stackoverflow&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/iCloud-3693F3?style=flat&logo=icloud&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/VK-0077FF?style=flat&logo=vk&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Apple Arcade-000000?style=flat&logo=applearcade&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/App Store-0D96F6?style=flat&logo=appstore&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=ffffff"/>
+</p>
 
 ## Github Stats  
 <table><tr><td valign="top" width="100%">
