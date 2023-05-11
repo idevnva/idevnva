@@ -18,7 +18,8 @@ Inspired by development and Apple philosophy.
 * ☕️  I love hot coffee in the morning.
 
 ### Skills
-<img src="https://img.shields.io/badge/SWIFT-5.8-F6522E?style=flat&logo=appveyor&logo=swift&logoColor=F6522E"/> <img src="https://img.shields.io/badge/SwiftUI-4.0-0260E8?style=flat&logo=appveyor&logo=swift&logoColor=0260E8"/>
+<img src="https://img.shields.io/badge/SWIFT-F6522E?style=flat&logo=swift&logoColor=ffffff"/> <img src="https://img.shields.io/badge/SwiftUI-0260E8?style=flat&logo=swift&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Realm-008736?style=flat&logo=realm&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/MVVM-FFC11E?style=flat&"/> <img src="https://img.shields.io/badge/Xcode-5199FF?style=flat&logo=xcode&logoColor=ffffff"/> <img src="https://img.shields.io/badge/GitHub-231F20?style=flat&logo=github&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Figma-782FEF?style=flat&logo=figma&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Trello-2300B0?style=flat&logo=trello&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Photoshop-BDCCFF?style=flat&logo=adobephotoshop&logoColor=000000"/> <img src="https://img.shields.io/badge/Illustrator-FFD600?style=flat&logo=adobeillustrator&logoColor=000000"/> <img src="https://img.shields.io/badge/HTML5-FE634E?style=flat&logo=html5&logoColor=ffffff"/> <img src="https://img.shields.io/badge/CSS3-0043A4?style=flat&logo=css3&logoColor=ffffff"/>
 
 
 ### Socials
