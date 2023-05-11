@@ -19,13 +19,13 @@ Inspired by development and Apple philosophy.
 
 ### Courses
 | Year | Author | Name |
-|-----:|--------------------|-----------------------|
-| 2022 | Alex Skutarenko    | Swift                 |
-| 2022 | Ian Solomein       | Swift, SwiftUI        |
-| 2023 | Hacking with Swift | 100 Days of SwiftUI   |
-| 2023 | Apple              | Introducing SwiftUI   |
-| 2023 | Apple              | Develop apps for iOS  |
-| 2023 | Error Nil          | Swift, UIKit, SwiftUI |
+|-----:|-----------------------|--------------------------|
+| 2022 | Alex Skutarenko       | Swift                    |
+| 2022 | Ian Solomein          | Swift, SwiftUI           |
+| 2023 | Hacking with Swift    | 100 Days of SwiftUI      |
+| 2023 | Apple                 | Introducing SwiftUI      |
+| 2023 | Apple                 | Develop apps for iOS     |
+| 2023 | Error Nil             | Swift, UIKit, SwiftUI    |
 
 ### Skills
 <p align="left">
