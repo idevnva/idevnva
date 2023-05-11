@@ -1,7 +1,7 @@
 👋 Hello, my name is Vladislav Novoshinskiy
 =======================================
 
-An aspiring iOS developer with experience in management and design. I specialize in SwiftUI and create high-quality UI/UX. Developed the iWallet app for expense and income tracking with over 150 downloads.
+Aspiring iOS developer with experience in team management and design. I specialize in SwiftUI and create high-quality UI/UX. Developed the iWallet app for tracking expenses and income with over 150 downloads.
 
 Inspired by development and Apple philosophy.
 
