@@ -9,10 +9,10 @@ An aspiring iOS developer with experience in management and design. I specialize
 Inspired by development and Apple philosophy.
 
 * 🌍  I'm based in Moscow
-* 🖥️  My personal [site](http://idevnva.com)
-* ✉️  You can contact me at [email: idevnva@gmail.com](mailto:idevnva@gmail.com)
+* 🖥️  My personal [Site](http://idevnva.com)
+* ✉️  You can contact me at email: [idevnva@gmail.com](mailto:idevnva@gmail.com)
 * ✈️  You can contact me at Telegram: [@idevnva](t.me/idevnva)
-* 🚀  I'm currently working on [MyApp: iWallet](http://apps.apple.com/us/app/iwallet-expenses-and-income/id6447585809)
+* 🚀  I'm currently working on MyApp: [iWallet](http://apps.apple.com/us/app/iwallet-expenses-and-income/id6447585809)
 * 🧠  I'm learning Combine
 * 🤝  I'm open to collaborating on interesting projects
 * ☕️  I love hot coffee in the morning.
