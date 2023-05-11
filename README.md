@@ -18,7 +18,7 @@ Inspired by development and Apple philosophy.
 * ☕️  I love hot [coffee](https://www.youtube.com/shorts/YRmJzKsKnp0) in the morning.
 
 ### Courses
-| Year | Author | Name |
+| Year | Author                | Name                     |
 |-----:|-----------------------|--------------------------|
 | 2022 | Alex Skutarenko       | Swift                    |
 | 2022 | Ian Solomein          | Swift, SwiftUI           |
