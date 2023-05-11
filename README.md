@@ -1,4 +1,4 @@
-Hi 👋 My name is Vladislav Novoshinskiy
+👋 Hi my name is Vladislav Novoshinskiy
 =======================================
 
 iOS Developer
