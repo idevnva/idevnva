@@ -59,6 +59,8 @@ Inspired by development and Apple philosophy.
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=flat&logo=anydesk&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Safari-000000?style=flat&logo=safari&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=flat&logo=duckduckgo&logoColor=ffffff"/>
 </p>
 
 ## Github Stats  
