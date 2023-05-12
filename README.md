@@ -73,7 +73,3 @@ Inspired by development and Apple philosophy.
   <img src="https://img.shields.io/badge/Safari-000000?style=flat&logo=safari&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=flat&logo=duckduckgo&logoColor=ffffff"/>
 </p>
-
-## Github Stats  
-<table><tr><td valign="top" width="100%">
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=idevnva&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
