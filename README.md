@@ -72,4 +72,9 @@ Inspired by development and Apple philosophy.
   <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=flat&logo=anydesk&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Safari-000000?style=flat&logo=safari&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=flat&logo=duckduckgo&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Habr-26A5E4?style=flat&logo=habr&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat&logo=microsoftword&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat&logo=microsoftexcel&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/PS5-003791?style=flat&logo=playstation5&logoColor=ffffff"/>
 </p>
