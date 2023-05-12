@@ -77,4 +77,5 @@ Inspired by development and Apple philosophy.
   <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat&logo=microsoftword&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat&logo=microsoftexcel&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/PS5-003791?style=flat&logo=playstation5&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Google Translate-4285F4?style=flat&logo=googletranslate&logoColor=ffffff"/>
 </p>
