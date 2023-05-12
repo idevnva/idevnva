@@ -10,7 +10,7 @@ Inspired by development and Apple philosophy.
 * 🖥️  My personal [Site](http://idevnva.com)
 * 📜  My personal [Resume](https://drive.google.com/file/d/1RjRV2BD6iqxAZx2SYFlflWJyukl0AIgV/view)
 * ✉️  You can contact me at email: [idevnva@gmail.com](mailto:idevnva@gmail.com)
-* ✈️  You can contact me at Telegram: [@idevnva](t.me/idevnva)
+* ✈️  You can contact me at Telegram: [@idevnva](https://t.me/idevnva)
 * ❤️  My channel YouTube: [iDevnva](https://youtube.com/@idevnva)
 * 🚀  I'm currently working on MyApp: [iWallet](http://apps.apple.com/us/app/iwallet-expenses-and-income/id6447585809)
 * 🧠  I'm learning [Combine](https://developer.apple.com/documentation/combine)
