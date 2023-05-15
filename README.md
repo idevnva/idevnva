@@ -37,7 +37,7 @@ Inspired by development and Apple philosophy.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Jira-147EFB?style=flat&logo=figma&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=ffffff"/></p>
