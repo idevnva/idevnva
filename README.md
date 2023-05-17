@@ -1,7 +1,7 @@
 👋 Hello, my name is Vladislav Novoshinskiy
 =======================================
 
-I am a self-taught iOS developer with experience in team management and product design. I specialize in SwiftUI and create high-quality UI/UX. Developed the iWallet app for spending and income with over 150 downloads.
+I am a self-taught iOS developer with experience in team management and product design. I specialize in SwiftUI and create high-quality UI/UX. Developed the iWallet app for spending and income with over 200 downloads.
 
 Inspired by development and Apple philosophy.
 
