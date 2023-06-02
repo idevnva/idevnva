@@ -3,6 +3,20 @@
 
 My name is [Vladislav Novoshinsky](https://idevnva.com/), I'm an aspiring self-taught iOS developer with experience in team management and product design. I specialize in SwiftUI and love using native solutions. Developed the expense and income app [iWallet](http://apps.apple.com/us/app/iwallet-expenses-and-income/id6447585809) which has been downloaded over 250 times.
 
+### Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/SWIFT-F05138?style=flat&logo=swift&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0260E8?style=flat&logo=swift&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/MVVM-53AC56?style=flat"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=ffffff"/></p>
 <!---
 Inspired by development and Apple philosophy.
 
@@ -28,20 +42,7 @@ Inspired by development and Apple philosophy.
 | 2023 | Apple                 | Develop apps for iOS     |
 | 2023 | Error Nil             | Swift, UIKit, SwiftUI    |
 
-### Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/SWIFT-F05138?style=flat&logo=swift&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/SwiftUI-0260E8?style=flat&logo=swift&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/MVVM-53AC56?style=flat"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=ffffff"/></p>
+
 
 ### Other skills
 <p align="left">
