@@ -2,6 +2,8 @@
 =======================================
 
 I am a self-taught iOS developer with experience in team management and product design. I specialize in SwiftUI and create high-quality UI/UX. Developed the iWallet app for spending and income with over 250 downloads.
+
+
 <!---
 Inspired by development and Apple philosophy.
 
