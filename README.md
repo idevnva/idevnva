@@ -1,7 +1,7 @@
 👋 Hello, World!
 =======================================
 
-My name is Vladislav Novoshinsky, I'm an aspiring self-taught iOS developer with experience in team management and product design. I specialize in SwiftUI and love using native solutions. Developed the expense and income app [iWallet](http://apps.apple.com/us/app/iwallet-expenses-and-income/id6447585809) which has been downloaded over 250 times.
+My name is [Vladislav Novoshinsky](https://idevnva.com/), I'm an aspiring self-taught iOS developer with experience in team management and product design. I specialize in SwiftUI and love using native solutions. Developed the expense and income app [iWallet](http://apps.apple.com/us/app/iwallet-expenses-and-income/id6447585809) which has been downloaded over 250 times.
 
 <!---
 Inspired by development and Apple philosophy.
